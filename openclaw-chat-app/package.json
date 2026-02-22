@@ -1,0 +1,12 @@
+{
+  "name": "OpenClawChatApp",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@react-navigation/native": "latest",
+    "react-native": "^0.84.0"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "latest"
+  }
+}
